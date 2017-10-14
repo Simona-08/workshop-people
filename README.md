@@ -1,3 +1,3 @@
 # workshop-people
 
-- Matt Burman
+- me  
